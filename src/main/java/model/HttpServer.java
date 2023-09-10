@@ -63,7 +63,6 @@ public class HttpServer {
 
                         logger.log(Level.FINE, "File png {0} was found ", file.getName());
                         getPng(socket, toNetwork, file);
-                        Files.sendFile("icons8-nube-96.png", socket);
 
                     }
 
