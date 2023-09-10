@@ -1,0 +1,16 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÿ¨¥Ζόÿÿÿÿ8ίεδ¦1
+D
+java:S2189""Add an end condition to this loop.(οÿÿÿÿÿ8΄ίεδ¦1
+}
+java:S1450"[Remove the "serverSocket" field and declare it as a local variable in the relevant methods.(“—ΣΏύÿÿÿÿ8΄ίεδ¦1
+L	java:S106"+Replace this use of System.out by a logger.(£”―ύÿÿÿÿ8¶ίεδ¦1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÿ¨¥Ζόÿÿÿÿ8·ίεδ¦1
+L	java:S1062"+Replace this use of System.out by a logger.(ϋδ‰Τύÿÿÿÿ8Ίίεδ¦1
+O
+java:S1128"2Remove this unused import 'javax.imageio.ImageIO'.(‘ηΤϋ8½ίεδ¦1
+[
+java:S1128"9Remove this unused import 'java.awt.image.BufferedImage'.(ΧνΠ‡ώÿÿÿÿ8½ίεδ¦1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(ξ–Ιόÿÿÿÿ8Ύίεδ¦1
